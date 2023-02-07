@@ -17,5 +17,7 @@ Of course you don't need a Nintendo Controller, you can build it any way you wan
 See description of the new version here
 https://on7dq.blogspot.com/2023/02/ic-7300-paddle-key-switch-revisited.html
 
+The picture above still shows low power as 10W, but in the code I changed it to 5W, I still have to change the label ;-)
+
 Enjoy ! 
 Luc ON7DQ
