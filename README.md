@@ -1,6 +1,6 @@
 # Icom-IC-7300-Paddle-Key-Switch
 
-![IC-7300 Mini Controller](https://user-images.githubusercontent.com/17215772/217217797-608f047c-b6f6-4fad-a3f5-6ecc824af91b.jpg)
+![IC-7300 Mini Controller](https://user-images.githubusercontent.com/17215772/217466927-17b35049-a6ed-4161-aca5-fb4c072b88ef.jpg)
 
 Avoid having to push 8 keystrokes on your IC-7300, to make the switch from paddle to straight key !
 Easy with just one button press with this project.
@@ -16,8 +16,6 @@ Of course you don't need a Nintendo Controller, you can build it any way you wan
 
 See description of the new version here
 https://on7dq.blogspot.com/2023/02/ic-7300-paddle-key-switch-revisited.html
-
-The picture above still shows low power as 10W, but in the code I changed it to 5W, I still have to change the label ;-)
 
 Enjoy ! 
 Luc ON7DQ
