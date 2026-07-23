@@ -23,6 +23,8 @@ The new model **IC-7300 Mk2** has a revised CI-V command table, as a consequence
 Alas, still no command to send the 8 CW messages, only the voice messages are available.
 See the new Arduino sketch above, which works with the **IC-7300 Mk2** :
 _MiniPro_IC7300Mk2_PaddleKeyKSwitch_2026.ino_
+NOTE : in my  sketch I use the old transceiver address 0x94, not the new 0xB6 address, because some other software on my PC doesn't work with the new address yet.
+It's easy to change this in line 16 if you want to keep the 0xB6 address.
 
 Enjoy ! 
 Luc ON7DQ (KF0CR)
