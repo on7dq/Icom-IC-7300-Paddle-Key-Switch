@@ -1,4 +1,4 @@
-# Icom-IC-7300-Paddle-Key-Switch
+# Icom-IC-7300-Paddle-Key-Switch, now also for IC-7300Mk2 !
 
 ![IC-7300 Mini Controller](https://user-images.githubusercontent.com/17215772/217466927-17b35049-a6ed-4161-aca5-fb4c072b88ef.jpg)
 
